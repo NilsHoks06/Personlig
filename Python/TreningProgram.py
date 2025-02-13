@@ -152,3 +152,6 @@ class WorkoutGenerator:
 if __name__ == "__main__":
     generator = WorkoutGenerator()
     generator.generate_program()
+
+#Laget av Nils Martin Hoksrud
+#Omdannet av Claude.ai

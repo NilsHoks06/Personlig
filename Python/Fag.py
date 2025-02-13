@@ -106,3 +106,5 @@ elif Bruker in ["styrke", "beregn", "beregne", "beregne styrke", "beregn styrke"
     reps = int(input("Hvor mange reps tok du? "))
     resultat = beregn_styrke(vekt, reps)
     print(f"Styrken etter {reps} repetisjoner med {vekt} kg er: {resultat} kg")
+
+#Laget av Nils Martin Hoksrud
