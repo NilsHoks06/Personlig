@@ -1,0 +1,1 @@
+#Beregn diskplass brukt av PDF filer i alle mapper på C:\

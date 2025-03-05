@@ -1,0 +1,1305 @@
+/*2560px skjerm*/
+
+@media only screen and (max-width: 2560px) {
+    body {
+        background-image: url("Stars.jpg");
+    background-color: black;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+} 
+.dropdown-content {
+    display: none;
+    overflow: hidden;
+    transition: height 0.3s ease;
+  }
+  
+  .show {
+    display: block;
+  }
+  
+.Title {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+
+    
+    margin-left: 39%;
+    margin-right: 38%;
+    font-size: 100px;
+}
+
+.HvaErRobotikk {
+    border-radius: 30px;
+    height: auto;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+#RobotikkSkrollKnapp {
+    position: fixed;
+    top: 20px;
+    right: 520px;
+    padding: 10px 20px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.FordelerOgUlemper {
+    border-radius: 30px;
+    height: 400px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+#FordelerUlemperSkrollKnapp {
+    position: fixed;
+    top: 20px;
+    right: 320px;
+    padding: 10px 20px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.ErDetFramtiden {
+    border-radius: 30px;
+    height: auto;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+#ErDetFramtidenSkrollKnapp {
+    position: fixed;
+    top: 20px;
+    right: 130px;
+    padding: 10px 20px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.Kilder {
+    height: 300px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    margin-left: 41%;
+    margin-right: 40%;
+}
+
+iframe {
+    width: 250px;
+    height: 250px;
+    background-color: #f0f0f0;
+    border: 10px solid #ccc;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    margin-left: 44%;
+    margin-right: 10%;
+}
+
+.TypeRobot {
+    
+    height: 350px;
+    margin-left: 32%;
+    margin-right: 10%;
+}
+
+#KilderSkrollKnapp {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+p {
+    margin-left: 2%;
+    margin-right: 2%;
+    font-size: x-large;
+    text-align: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+.FordelerUlemper {
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+.ErFremtiden {
+
+    margin-top: 2%;
+}
+
+.Credits1 {
+    border-radius: 30px;
+    height: auto;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    margin-left: 41%;
+    margin-right: 40%;
+}
+
+.Credits2 {
+    text-align: center;
+}
+
+.Credits3 {
+    margin-left: 13%;
+}
+
+.HvaErEnRobot {
+    height: 250px;
+
+}
+
+.QRkode {
+    height: 100px;
+    margin-right: 40%;
+    margin-left: 39%;
+}
+
+}
+
+/*1920px skjerm*/
+
+@media only screen and (min-width: 1860px) and (max-width: 2559px) {
+    body {
+        background-image: url("Stars.jpg");
+    background-color: black;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+} 
+.dropdown-content {
+    display: none;
+    overflow: hidden;
+    transition: height 0.3s ease;
+  }
+  
+  .show {
+    display: block;
+  }
+  
+.Title {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+
+    
+    margin-left: 39%;
+    margin-right: 38%;
+    font-size: 100px;
+}
+
+.HvaErRobotikk {
+    border-radius: 30px;
+    height: auto;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+#RobotikkSkrollKnapp {
+    position: fixed;
+    top: 20px;
+    right: 520px;
+    padding: 10px 20px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.FordelerOgUlemper {
+    border-radius: 30px;
+    height: 800px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    margin-left: 3%;
+    margin-right: 3%;
+    height: 350px;
+}
+
+#FordelerUlemperSkrollKnapp {
+    position: fixed;
+    top: 20px;
+    right: 320px;
+    padding: 10px 20px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.ErDetFramtiden {
+    border-radius: 30px;
+    height: auto;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+#ErDetFramtidenSkrollKnapp {
+    position: fixed;
+    top: 20px;
+    right: 130px;
+    padding: 10px 20px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.Kilder {
+    height: 300px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+iframe {
+    width: 250px;
+    height: 250px;
+    background-color: #f0f0f0;
+    border: 10px solid #ccc;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    margin-left: 44%;
+    margin-right: 10%;
+}
+
+.TypeRobot {
+    
+    height: 350px;
+    margin-left: 25%;
+    margin-right: 0%;
+}
+
+#KilderSkrollKnapp {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+p {
+    margin-left: 2%;
+    margin-right: 2%;
+    font-size: larger;
+    text-align: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+.ErFremtiden {
+    height: 250px;
+    margin-left: 44%;
+    margin-top: 10%;
+}
+
+.Credits1 {
+    border-radius: 30px;
+    height: auto;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    margin-left: 41%;
+    margin-right: 40%;
+}
+
+.Credits2 {
+    text-align: center;
+}
+
+.Credits3 {
+    margin-left: 13%;
+}
+
+.HvaErEnRobot {
+    height: 250px;
+    margin-left: 42%;
+    margin-right: 42%;
+}
+
+.QRkode {
+    height: 100px;
+    margin-right: 40%;
+    margin-left: 39%;
+}
+
+}
+
+/*1440px skjerm*/
+
+@media only screen and (min-width: 1440px) and (max-width: 1859px) {
+    body {
+        background-image: url("Stars.jpg");
+    background-color: black;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+} 
+.dropdown-content {
+    display: none;
+    overflow: hidden;
+    transition: height 0.3s ease;
+  }
+  
+  .show {
+    display: block;
+  }
+  
+.Title {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+
+    
+    margin-left: 30%;
+    margin-right: 30%;
+    font-size: 100px;
+}
+
+.HvaErRobotikk {
+    border-radius: 30px;
+    height: auto;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#RobotikkSkrollKnapp {
+    position: fixed;
+    top: 20px;
+    right: 720px;
+    padding: 10px 20px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.FordelerOgUlemper {
+    border-radius: 30px;
+    height: 450px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#FordelerUlemperSkrollKnapp {
+    position: fixed;
+    top: 20px;
+    right: 520px;
+    padding: 10px 20px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.ErDetFramtiden {
+    border-radius: 30px;
+    height: auto;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#ErDetFramtidenSkrollKnapp {
+    position: fixed;
+    top: 20px;
+    right: 320px;
+    padding: 10px 20px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.Kilder {
+    height: 350px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+iframe {
+    width: 250px;
+    height: 250px;
+    background-color: #f0f0f0;
+    border: 10px solid #ccc;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    margin-left: 40%;
+    margin-right: 10%;
+}
+
+.TypeRobot {
+    margin-left: 2%;
+
+}
+
+#KilderSkrollKnapp {
+    position: fixed;
+    top: 20px;
+    right: 170px;
+    padding: 10px 20px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+p {
+    margin-left: 2%;
+    margin-right: 2%;
+    font-size: larger;
+    text-align: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+.FordelerUlemper {
+    text-align: center;
+    margin-left: 37%;
+    margin-right: 5%;
+ 
+}
+
+.ErFremtiden {
+    margin-left: 40%;
+    margin-right: auto;
+    margin-top: 2%;
+}
+
+
+.Credits1 {
+    border-radius: 30px;
+    height: auto;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    margin-left: 41%;
+    margin-right: 40%;
+}
+
+.Credits2 {
+    text-align: center;
+}
+
+.Credits3 {
+    margin-left: 13%;
+}
+
+.QRkode {
+    height: 100px;
+    margin-right: px;
+    margin-left: 88px;
+}
+}
+
+
+
+/*1024px skjerm*/
+
+@media only screen and (min-width: 1024px) and (max-width: 1439px) {
+    body {
+        background-image: url("Stars.jpg");
+    background-color: black;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+} 
+.dropdown-content {
+    display: none;
+    overflow: hidden;
+    transition: height 0.3s ease;
+  }
+  
+  .show {
+    display: block;
+  }
+  
+.Title {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+
+    
+    margin-left: 30%;
+    margin-right: 3%;
+    font-size: 100px;
+}
+
+.HvaErRobotikk {
+    border-radius: 30px;
+    height: auto;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    margin-left: 30%;
+    margin-right: 2%;
+}
+#RobotikkSkrollKnapp {
+    position: fixed;
+    top: 20px;
+    right: 820px;
+    padding: 10px 20px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.FordelerOgUlemper {
+    border-radius: 30px;
+    height: 800px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    margin-left: 30%;
+    margin-right: 2%;
+}
+
+#FordelerUlemperSkrollKnapp {
+    position: fixed;
+    top: 20px;
+    right: 620px;
+    padding: 10px 20px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.ErDetFramtiden {
+    border-radius: 30px;
+    height: auto;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    margin-left: 30%;
+    margin-right: 2%;
+}
+
+#ErDetFramtidenSkrollKnapp {
+    position: fixed;
+    top: 20px;
+    right: 470px;
+    padding: 10px 20px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.Kilder {
+    height: 400px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    margin-left: 30%;
+    margin-right: 2%;
+}
+
+iframe {
+    width: 250px;
+    height: 250px;
+    background-color: #f0f0f0;
+    border: 10px solid #ccc;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    margin-left: 30%;
+    margin-right: 10%;
+}
+
+.TypeRobot {
+    width: 650px;
+    margin-left: 02%;
+    margin-right: 10%;
+}
+
+#KilderSkrollKnapp {
+    position: fixed;
+    top: 20px;
+    right: 370px;
+    padding: 10px 20px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+p {
+    margin-left: 2%;
+    margin-right: 2%;
+    font-size: larger;
+    text-align: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+.FordelerUlemper {
+    height: 350px;
+    text-align: center;
+    margin-left: 37%;
+    margin-right: 5%;
+ 
+}
+
+.ErFremtiden {
+    margin-left: 30%;
+    margin-top: 2%;
+}
+
+.Credits1 {
+    border-radius: 30px;
+    height: auto;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    margin-left: 30%;
+    margin-right: 2%;
+}
+
+.Credits2 {
+    text-align: center;
+}
+
+.Credits3 {
+    margin-left: 32%;
+}
+
+.QRkode {
+    height: 100px;
+    margin-right: 0%;
+    margin-left: 43%;
+}
+} 
+ 
+
+
+
+/*768px skjerm*/
+
+@media only screen and (min-width: 426px) and (max-width: 1023px) {
+    body {
+        background-image: url("Stars.jpg");
+    background-color: black;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+} 
+.dropdown-content {
+    display: none;
+    overflow: hidden;
+    transition: height 0.3s ease;
+  }
+  
+  .show {
+    display: block;
+  }
+  
+.Title {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+
+    
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 100px;
+}
+
+.HvaErRobotikk {
+    border-radius: 30px;
+    height: auto;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#RobotikkSkrollKnapp {
+    position: fixed;
+    top: 20px;
+    right: 550px;
+    padding: 10px 20px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.FordelerOgUlemper {
+    border-radius: 30px;
+    height: 800px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#FordelerUlemperSkrollKnapp {
+    position: fixed;
+    top: 20px;
+    right: 350px;
+    padding: 10px 20px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.ErDetFramtiden {
+    border-radius: 30px;
+    height: auto;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#ErDetFramtidenSkrollKnapp {
+    position: fixed;
+    top: 20px;
+    right: 170px;
+    padding: 10px 20px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.Kilder {
+    height: 300px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+iframe {
+    width: 250px;
+    height: 250px;
+    background-color: #f0f0f0;
+    border: 10px solid #ccc;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    margin-left: 28%;
+    margin-right: 10%;
+}
+
+.TypeRobot {
+    width: 500px;
+    margin-left: 9%;
+    margin-right: 10%;
+}
+
+#KilderSkrollKnapp {
+    position: fixed;
+    top: 20px;
+    right: 80px;
+    padding: 10px 20px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+p {
+    margin-left: 2%;
+    margin-right: 2%;
+    font-size: larger;
+    text-align: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+.FordelerUlemper {
+    height: 350px;
+    text-align: center;
+    margin-left: 37%;
+    margin-right: 5%;
+ 
+}
+
+.ErFremtiden {
+    margin-left: 30%;
+    margin-top: 2%;
+}
+
+.Credits1 {
+    border-radius: 30px;
+    height: auto;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.Credits2 {
+    text-align: center;
+}
+
+.Credits3 {
+    margin-left: 19%;
+}
+
+.QRkode {
+    height: 100px;
+    margin-right: 0%;
+    margin-left: 39%;
+}
+
+}
+
+
+
+/*425px skjerm*/
+
+@media only screen and (min-width: 370px) and (max-width: 425px) {
+    body {
+        background-image: url("Stars.jpg");
+    background-color: black;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+} 
+.dropdown-content {
+    display: none;
+    overflow: hidden;
+    transition: height 0.3s ease;
+  }
+  
+  .show {
+    display: block;
+  }
+  
+.Title {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+
+    margin-top: 20%;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 50px;
+}
+
+.HvaErRobotikk {
+    border-radius: 30px;
+    height: auto;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+#RobotikkSkrollKnapp {
+    position: fixed;
+    top: 20px;
+    right:320px;
+    padding: 5px 10px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: small;
+}
+
+.FordelerOgUlemper {
+    border-radius: 30px;
+    height: 800px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+#FordelerUlemperSkrollKnapp {
+    position: fixed;
+    top: 20px;
+    right: 185px;
+    padding: 5px 10px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: small;
+}
+
+.ErDetFramtiden {
+    border-radius: 30px;
+    height: auto;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+#ErDetFramtidenSkrollKnapp {
+    position: fixed;
+    top: 20px;
+    right: 65px;
+    padding: 5px 10px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: small;
+}
+
+.Kilder {
+    height: 300px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+iframe {
+    width: 250px;
+    height: 250px;
+    background-color: #f0f0f0;
+    border: 10px solid #ccc;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    margin-left: 17%;
+    margin-right: 10%;
+}
+
+.TypeRobot {
+    width: 300px;
+    margin-left: 16%;
+    margin-right: 10%;
+}
+
+#KilderSkrollKnapp {
+    position: fixed;
+    top: 20px;
+    right: 10px;
+    padding: 5px 10px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: small;
+}
+
+p {
+    margin-left: 2%;
+    margin-right: 2%;
+    font-size: larger;
+    text-align: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+.FordelerUlemper {
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+.ErFremtiden {
+
+    margin-top: 2%;
+}
+
+.Credits1 {
+    border-radius: 30px;
+    height: auto;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    margin-left: 3%;
+    margin-right: 0%;
+}
+
+.Credits2 {
+    text-align: center;
+}
+
+.Credits3 {
+    margin-left: 15%;
+}
+
+.QRkode {
+    height: 100px;
+    margin-right: 0%;
+    margin-left: 39%;
+}
+
+}
+
+@media only screen and (min-width: 320px) and (max-width: 369px) {
+    body {
+        background-image: url("Stars.jpg");
+    background-color: black;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+} 
+.dropdown-content {
+    display: none;
+    overflow: hidden;
+    transition: height 0.3s ease;
+  }
+  
+  .show {
+    display: block;
+  }
+  
+.Title {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+
+    margin-top: 25%;
+    margin-left: 5%;
+    margin-right: 3%;
+    font-size: 50px;
+}
+
+.HvaErRobotikk {
+    border-radius: 30px;
+    height: auto;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    margin-left: 5%;
+    margin-right: 3%;
+}
+#RobotikkSkrollKnapp {
+    position: fixed;
+    top: 20px;
+    right:220px;
+    padding: 5px 10px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: small;
+}
+
+.FordelerOgUlemper {
+    border-radius: 30px;
+    height: auto;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    margin-left: 5%;
+    margin-right: 3%;
+}
+
+#FordelerUlemperSkrollKnapp {
+    position: fixed;
+    top: 20px;
+    right: 104px;
+    padding: 5px 10px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: smaller;
+}
+
+.ErDetFramtiden {
+    border-radius: 30px;
+    height: auto;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    margin-left: 5%;
+    margin-right: 3%;
+}
+
+#ErDetFramtidenSkrollKnapp {
+    position: fixed;
+    top: 20px;
+    right: 55px;
+    padding: 5px 10px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: smaller;
+}
+
+.Kilder {
+    height: 300px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    margin-left: 6%;
+    margin-right: 6%;
+}
+
+iframe {
+    width: 250px;
+    height: 150px;
+    background-color: #f0f0f0;
+    border: 10px solid #ccc;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.TypeRobot {
+    height: 100px;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+#KilderSkrollKnapp {
+    position: fixed;
+    top: 20px;
+    right: 10px;
+    padding: 5px 10px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: smaller;
+}
+
+p {
+    margin-left: 2%;
+    margin-right: 2%;
+    font-size: larger;
+    text-align: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+.FordelerUlemper {
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+.ErFremtiden {
+
+    margin-top: 2%;
+}
+
+.Credits1 {
+    border-radius: 30px;
+    height: auto;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.Credits2 {
+    text-align: center;
+}
+
+.Credits3 {
+    margin-left: 17%;
+}
+
+.QRkode {
+    height: 100px;
+    margin-right: 0%;
+    margin-left: 33%;
+}
+
+}
+
+

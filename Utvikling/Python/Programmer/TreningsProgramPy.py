@@ -22,7 +22,7 @@ Core = ["Crunches", "Russian twists", "Leg raises", "Hanging leg raises", "Plank
 Bruker = input("Vil du beregne styrke eller lage program? ").lower()
 
 if Bruker in ["lag program", "2", "program", "lage program", "lag", "lage"]:
-    # Funksjon for å velge et bestemt antall tilfeldige øvelser
+    # Velger et bestemt antall tilfeldige øvelser
     def velg_ovelser(ovelsesliste, antall):
         return [random.choice(ovelsesliste) for _ in range(antall)]
 
@@ -89,7 +89,7 @@ if Bruker in ["lag program", "2", "program", "lage program", "lag", "lage"]:
             print("Ugyldig mål. Prøv igjen.")
             reps, sett = None, None
 
-        # Utskrift av valgt treningsprogram
+        # Print av treningsprogram
         if reps and sett:
             print("\nDitt treningsprogram:")
             for ovelse in ovelser:

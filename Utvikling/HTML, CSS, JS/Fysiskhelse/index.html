@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="gym.css">
+    <script src="gym.js" defer></script>
+    <title>Treningsprogram og Styrkeberegning</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="index.html">Main</a>
+            <a href="styrkeKalk.html">Styrke kalkulator</a>
+            <a href="treningsplan.html">Treningsplan</a>
+            <a href="dietplan.html">Diet plan</a>
+            <a href="tutorial.html">Tutorial</a>
+        </nav>
+    </header>
+<h1>Velg et treningsalternativ</h1>
+
+
+<button onclick="startProgram()">Lag treningsprogram</button>
+<button onclick="beregnStyrke()">Beregn styrke</button>
+
+<section id="programSection" style="display:none;">
+    <h2>Lag treningsprogram</h2>
+    <label for="muskelgruppe">Velg muskelgruppe:</label>
+    <select id="muskelgruppe">
+        <option value="push">Push</option>
+        <option value="pull">Pull</option>
+        <option value="legs">Legs</option>
+        <option value="arms">Arms</option>
+        <option value="upperbody">Upper Body</option>
+        <option value="core">Core</option>
+        <option value="fullbody">Full Body</option>
+    </select>
+
+    <h3>Velg treningsmål:</h3>
+    <select id="treningsmal">
+        <option value="styrke">Styrke</option>
+        <option value="volum">Volum</option>
+        <option value="utholdenhet">Utholdenhet</option>
+    </select>
+
+    <button class="lagProgram" onclick="lagProgram()">Lag program</button>
+
+    <h3>Treningsprogram:</h3>
+    <p id="programResult"></p>
+</section>
+
+<section id="styrkeSection" style="display:none;">
+    <h2>Beregn Styrke</h2>
+    <label for="vekt">Hvor mye vekt tok du? (kg)</label> <br>
+    <input type="number" id="vekt" placeholder="Vekt (kg)"> <br>
+    <label for="reps">Hvor mange reps tok du?</label> <br>
+    <input type="number" id="reps" placeholder="Reps"> <br>
+    <button class="beregnStyrke" onclick="beregnStyrkeResultat()">Beregn styrke</button>
+
+    <h3>Resultat:</h3>
+    <p id="styrkeResultat"></p>
+</section>
+
+</body>
+</html>
